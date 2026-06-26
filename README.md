@@ -29,7 +29,6 @@ The predictions serve as the basis for subsequent 3D discrete fracture network (
 .
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── data/
 │ ├── Date_Fracture_intensity.xlsx # Example training data for CNN (FDI)
 │ ├── Date_Fracture_orientation_Dip_azimuth.xlsx # Example training data for dip azimuth
